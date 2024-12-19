@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "DR2EU2mE1HX5IkuFEWahkGsS8EMIaW20uPYFAl7GIvU=",
+  "Source": "NetApp",
+  "BasePath": "_content/NetApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
