@@ -58,3 +58,4 @@ C:\Users\Kévin.L\Desktop\Cours\Programmation\C#\NetApp\obj\Debug\net9.0\refint\
 C:\Users\Kévin.L\Desktop\Cours\Programmation\C#\NetApp\obj\Debug\net9.0\NetApp.pdb
 C:\Users\Kévin.L\Desktop\Cours\Programmation\C#\NetApp\obj\Debug\net9.0\NetApp.genruntimeconfig.cache
 C:\Users\Kévin.L\Desktop\Cours\Programmation\C#\NetApp\obj\Debug\net9.0\ref\NetApp.dll
+C:\Users\Kévin.L\Desktop\Cours\Programmation\C#\NetApp\obj\Debug\net9.0\NetApp.sourcelink.json
