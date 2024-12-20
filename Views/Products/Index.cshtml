@@ -1,20 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
+@{
+    ViewData["Title"] = "Products";
+    Layout = "_Layout";
+}
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Product detail</title>
-</head>
-
-<body>
-    @foreach (var product in @Model)
-    {
-        <h1>Detail</h1>
-        <h2>@product.Name</h2>
-        <p>@product.Price</p>
-        <p>@product.Description</p>
-    }
-</body>
-
-</html>
+@foreach (var product in @Model)
+{
+    <h1>Detail</h1>
+    <h2>@product.Name</h2>
+    <p>@product.Price</p>
+    <p>@product.Description</p>
+}

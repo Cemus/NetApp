@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Kevin\\.nuget\\packages\\": {}
+    "C:\\Users\\Kévin.L\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kevin\\Documents\\Programmation\\Emploi\\MVC .NET\\NetApp\\NetApp.csproj",
+      "projectUniqueName": "C:\\Users\\Kévin.L\\Desktop\\Cours\\Programmation\\C#\\NetApp\\NetApp.csproj",
       "projectName": "NetApp",
-      "projectPath": "C:\\Users\\Kevin\\Documents\\Programmation\\Emploi\\MVC .NET\\NetApp\\NetApp.csproj",
-      "packagesPath": "C:\\Users\\Kevin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kevin\\Documents\\Programmation\\Emploi\\MVC .NET\\NetApp\\obj\\",
+      "projectPath": "C:\\Users\\Kévin.L\\Desktop\\Cours\\Programmation\\C#\\NetApp\\NetApp.csproj",
+      "packagesPath": "C:\\Users\\Kévin.L\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kévin.L\\Desktop\\Cours\\Programmation\\C#\\NetApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Kévin.L\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
