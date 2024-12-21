@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "z9fDsxi6udOjP5ZekOjvdrInsZW4CfDY2q5FBDFOSos=",
+  "Hash": "GTmRWKCGukTWktawMx9Yt9fpBw2IhhgOWsKBXuZ9BMk=",
   "Source": "NetApp",
   "BasePath": "_content/NetApp",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Kevin\\Documents\\Programmation\\Emploi\\MVC .NET\\NetApp\\obj\\Debug\\net9.0\\compressed\\yj4jvvpz3s-dskjkmbkw5.gz",
+      "Identity": "C:\\Users\\Kevin\\Documents\\Programmation\\Emploi\\MVC .NET\\NetApp\\obj\\Debug\\net9.0\\compressed\\yj4jvvpz3s-ziyhdxsul4.gz",
       "SourceId": "NetApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Kevin\\Documents\\Programmation\\Emploi\\MVC .NET\\NetApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/NetApp",
-      "RelativePath": "css/app#[.{fingerprint=dskjkmbkw5}]?.css.gz",
+      "RelativePath": "css/app#[.{fingerprint=ziyhdxsul4}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -31,8 +31,8 @@
       "RelatedAsset": "C:\\Users\\Kevin\\Documents\\Programmation\\Emploi\\MVC .NET\\NetApp\\wwwroot\\css\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "o0y5msmt6d",
-      "Integrity": "iF4LvaWgpQD4UaR4rTgsb0IPQbETr8Ubb1AbTyAvWm4=",
+      "Fingerprint": "rgl9d3xj54",
+      "Integrity": "FUK3xIs9QY+lIE2IYwEYjkpi53gfKeHclO1nnLfcptM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Kevin\\Documents\\Programmation\\Emploi\\MVC .NET\\NetApp\\wwwroot\\css\\app.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dskjkmbkw5",
-      "Integrity": "A7RgE/p36pOJiwvbODV0ylTyjIYkOcCnPqrNiF847EE=",
+      "Fingerprint": "ziyhdxsul4",
+      "Integrity": "9aXgw+lRhCf749t0DIfOX3OvcKlEsG4ikLQVJAjpoWA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\app.css"
@@ -62,12 +62,12 @@
   "Endpoints": [
     {
       "Route": "css/app.css",
-      "AssetFile": "C:\\Users\\Kevin\\Documents\\Programmation\\Emploi\\MVC .NET\\NetApp\\obj\\Debug\\net9.0\\compressed\\yj4jvvpz3s-dskjkmbkw5.gz",
+      "AssetFile": "C:\\Users\\Kevin\\Documents\\Programmation\\Emploi\\MVC .NET\\NetApp\\obj\\Debug\\net9.0\\compressed\\yj4jvvpz3s-ziyhdxsul4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002666666667"
+          "Quality": "0.002673796791"
         }
       ],
       "ResponseHeaders": [
@@ -77,15 +77,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "374"
+          "Value": "373"
         },
         {
           "Name": "ETag",
-          "Value": "\"iF4LvaWgpQD4UaR4rTgsb0IPQbETr8Ubb1AbTyAvWm4=\""
+          "Value": "\"FUK3xIs9QY+lIE2IYwEYjkpi53gfKeHclO1nnLfcptM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 10:58:47 GMT"
+          "Value": "Sat, 21 Dec 2024 12:36:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -105,13 +105,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"A7RgE/p36pOJiwvbODV0ylTyjIYkOcCnPqrNiF847EE=\""
+          "Value": "W/\"9aXgw+lRhCf749t0DIfOX3OvcKlEsG4ikLQVJAjpoWA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-A7RgE/p36pOJiwvbODV0ylTyjIYkOcCnPqrNiF847EE="
+          "Value": "sha256-9aXgw+lRhCf749t0DIfOX3OvcKlEsG4ikLQVJAjpoWA="
         }
       ]
     },
@@ -126,7 +126,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "716"
+          "Value": "737"
         },
         {
           "Name": "Content-Type",
@@ -134,11 +134,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"A7RgE/p36pOJiwvbODV0ylTyjIYkOcCnPqrNiF847EE=\""
+          "Value": "\"9aXgw+lRhCf749t0DIfOX3OvcKlEsG4ikLQVJAjpoWA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 10:58:47 GMT"
+          "Value": "Sat, 21 Dec 2024 12:36:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -148,13 +148,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-A7RgE/p36pOJiwvbODV0ylTyjIYkOcCnPqrNiF847EE="
+          "Value": "sha256-9aXgw+lRhCf749t0DIfOX3OvcKlEsG4ikLQVJAjpoWA="
         }
       ]
     },
     {
       "Route": "css/app.css.gz",
-      "AssetFile": "C:\\Users\\Kevin\\Documents\\Programmation\\Emploi\\MVC .NET\\NetApp\\obj\\Debug\\net9.0\\compressed\\yj4jvvpz3s-dskjkmbkw5.gz",
+      "AssetFile": "C:\\Users\\Kevin\\Documents\\Programmation\\Emploi\\MVC .NET\\NetApp\\obj\\Debug\\net9.0\\compressed\\yj4jvvpz3s-ziyhdxsul4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -163,7 +163,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "374"
+          "Value": "373"
         },
         {
           "Name": "Content-Type",
@@ -171,11 +171,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iF4LvaWgpQD4UaR4rTgsb0IPQbETr8Ubb1AbTyAvWm4=\""
+          "Value": "\"FUK3xIs9QY+lIE2IYwEYjkpi53gfKeHclO1nnLfcptM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 10:58:47 GMT"
+          "Value": "Sat, 21 Dec 2024 12:36:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -193,18 +193,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-iF4LvaWgpQD4UaR4rTgsb0IPQbETr8Ubb1AbTyAvWm4="
+          "Value": "sha256-FUK3xIs9QY+lIE2IYwEYjkpi53gfKeHclO1nnLfcptM="
         }
       ]
     },
     {
-      "Route": "css/app.dskjkmbkw5.css",
-      "AssetFile": "C:\\Users\\Kevin\\Documents\\Programmation\\Emploi\\MVC .NET\\NetApp\\obj\\Debug\\net9.0\\compressed\\yj4jvvpz3s-dskjkmbkw5.gz",
+      "Route": "css/app.ziyhdxsul4.css",
+      "AssetFile": "C:\\Users\\Kevin\\Documents\\Programmation\\Emploi\\MVC .NET\\NetApp\\obj\\Debug\\net9.0\\compressed\\yj4jvvpz3s-ziyhdxsul4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002666666667"
+          "Quality": "0.002673796791"
         }
       ],
       "ResponseHeaders": [
@@ -214,15 +214,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "374"
+          "Value": "373"
         },
         {
           "Name": "ETag",
-          "Value": "\"iF4LvaWgpQD4UaR4rTgsb0IPQbETr8Ubb1AbTyAvWm4=\""
+          "Value": "\"FUK3xIs9QY+lIE2IYwEYjkpi53gfKeHclO1nnLfcptM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 10:58:47 GMT"
+          "Value": "Sat, 21 Dec 2024 12:36:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -242,13 +242,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"A7RgE/p36pOJiwvbODV0ylTyjIYkOcCnPqrNiF847EE=\""
+          "Value": "W/\"9aXgw+lRhCf749t0DIfOX3OvcKlEsG4ikLQVJAjpoWA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dskjkmbkw5"
+          "Value": "ziyhdxsul4"
         },
         {
           "Name": "label",
@@ -256,12 +256,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-A7RgE/p36pOJiwvbODV0ylTyjIYkOcCnPqrNiF847EE="
+          "Value": "sha256-9aXgw+lRhCf749t0DIfOX3OvcKlEsG4ikLQVJAjpoWA="
         }
       ]
     },
     {
-      "Route": "css/app.dskjkmbkw5.css",
+      "Route": "css/app.ziyhdxsul4.css",
       "AssetFile": "C:\\Users\\Kevin\\Documents\\Programmation\\Emploi\\MVC .NET\\NetApp\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -271,7 +271,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "716"
+          "Value": "737"
         },
         {
           "Name": "Content-Type",
@@ -279,11 +279,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"A7RgE/p36pOJiwvbODV0ylTyjIYkOcCnPqrNiF847EE=\""
+          "Value": "\"9aXgw+lRhCf749t0DIfOX3OvcKlEsG4ikLQVJAjpoWA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 10:58:47 GMT"
+          "Value": "Sat, 21 Dec 2024 12:36:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -293,7 +293,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dskjkmbkw5"
+          "Value": "ziyhdxsul4"
         },
         {
           "Name": "label",
@@ -301,13 +301,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-A7RgE/p36pOJiwvbODV0ylTyjIYkOcCnPqrNiF847EE="
+          "Value": "sha256-9aXgw+lRhCf749t0DIfOX3OvcKlEsG4ikLQVJAjpoWA="
         }
       ]
     },
     {
-      "Route": "css/app.dskjkmbkw5.css.gz",
-      "AssetFile": "C:\\Users\\Kevin\\Documents\\Programmation\\Emploi\\MVC .NET\\NetApp\\obj\\Debug\\net9.0\\compressed\\yj4jvvpz3s-dskjkmbkw5.gz",
+      "Route": "css/app.ziyhdxsul4.css.gz",
+      "AssetFile": "C:\\Users\\Kevin\\Documents\\Programmation\\Emploi\\MVC .NET\\NetApp\\obj\\Debug\\net9.0\\compressed\\yj4jvvpz3s-ziyhdxsul4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -316,7 +316,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "374"
+          "Value": "373"
         },
         {
           "Name": "Content-Type",
@@ -324,11 +324,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iF4LvaWgpQD4UaR4rTgsb0IPQbETr8Ubb1AbTyAvWm4=\""
+          "Value": "\"FUK3xIs9QY+lIE2IYwEYjkpi53gfKeHclO1nnLfcptM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 10:58:47 GMT"
+          "Value": "Sat, 21 Dec 2024 12:36:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -346,7 +346,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dskjkmbkw5"
+          "Value": "ziyhdxsul4"
         },
         {
           "Name": "label",
@@ -354,7 +354,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-iF4LvaWgpQD4UaR4rTgsb0IPQbETr8Ubb1AbTyAvWm4="
+          "Value": "sha256-FUK3xIs9QY+lIE2IYwEYjkpi53gfKeHclO1nnLfcptM="
         }
       ]
     }

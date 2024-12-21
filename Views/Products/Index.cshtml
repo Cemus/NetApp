@@ -1,12 +1,22 @@
+@using NetApp.Models
+@model List<Product>
 @{
     ViewData["Title"] = "Products";
     Layout = "_Layout";
 }
 
-@foreach (var product in @Model)
-{
-    <h1>Detail</h1>
-    <h2>@product.Name</h2>
-    <p>@product.Price</p>
-    <p>@product.Description</p>
-}
+
+<ul>
+    @foreach (var product in Model)
+    {
+        <li>
+            <button hx-get="@Url.Action("Detail", "Products", new { id = product.Id })" hx-target="#productDetail"
+                hx-swap="innerHTML">
+                @product.Name
+            </button>
+        </li>
+    }
+</ul>
+
+<div id="productDetail">
+</div>

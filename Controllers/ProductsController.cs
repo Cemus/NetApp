@@ -15,7 +15,13 @@ namespace NetApp.Controllers
         public IActionResult Detail(int id)
         {
             var product = GetProductById(id);
-            return View(product);
+            
+            if (product == null)
+            {
+                return NotFound();
+            }
+
+            return PartialView("_ProductDetail",product);
         }
 
         private static Product? GetProductById(int id)
@@ -24,7 +30,7 @@ namespace NetApp.Controllers
             return listProducts.FirstOrDefault((product) => product.Id == id);
         }
 
-        private static Product[] GetProducts()
+        private static List<Product> GetProducts()
         {
             return
             [
