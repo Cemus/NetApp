@@ -3,6 +3,8 @@ builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
+app.MapStaticAssets();
+
 app.MapControllerRoute(
     name: "home",
     pattern: "/",

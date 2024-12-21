@@ -1,5 +1,5 @@
 @{
-    Layout = null; 
+    Layout = null;
 }
 
 <!DOCTYPE html>
@@ -8,17 +8,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/app.css">
     <title>@ViewData["Title"]</title>
 </head>
 
 <body>
-    @await Html.PartialAsync("_Header")
-
-    <div>
-        @RenderBody()
+    <div id="app">
+        @await Html.PartialAsync("_Header")
+        <main>
+            @RenderBody()
+        </main>
+        @await Html.PartialAsync("_Footer")
     </div>
-
-    @await Html.PartialAsync("_Footer")
 </body>
 
 </html>

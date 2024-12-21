@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/NetApp/css/app.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-A7RgE/p36pOJiwvbODV0ylTyjIYkOcCnPqrNiF847EE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"716"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022A7RgE/p36pOJiwvbODV0ylTyjIYkOcCnPqrNiF847EE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 21 Dec 2024 10:58:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NetApp/css/app.dskjkmbkw5.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dskjkmbkw5"},{"Name":"integrity","Value":"sha256-A7RgE/p36pOJiwvbODV0ylTyjIYkOcCnPqrNiF847EE="},{"Name":"label","Value":"_content/NetApp/css/app.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"716"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022A7RgE/p36pOJiwvbODV0ylTyjIYkOcCnPqrNiF847EE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 21 Dec 2024 10:58:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

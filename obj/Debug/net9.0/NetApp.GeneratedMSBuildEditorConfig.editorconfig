@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NetApp
 build_property.RootNamespace = NetApp
-build_property.ProjectDir = C:\Users\Kévin.L\Desktop\Cours\Programmation\C#\NetApp\
+build_property.ProjectDir = C:\Users\Kevin\Documents\Programmation\Emploi\MVC .NET\NetApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Kévin.L\Desktop\Cours\Programmation\C#\NetApp
+build_property.MSBuildProjectDirectory = C:\Users\Kevin\Documents\Programmation\Emploi\MVC .NET\NetApp
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Kévin.L/Desktop/Cours/Programmation/C\#/NetApp/Views/Home/Index.cshtml]
+[C:/Users/Kevin/Documents/Programmation/Emploi/MVC .NET/NetApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kévin.L/Desktop/Cours/Programmation/C\#/NetApp/Views/Products/Detail.cshtml]
+[C:/Users/Kevin/Documents/Programmation/Emploi/MVC .NET/NetApp/Views/Products/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kévin.L/Desktop/Cours/Programmation/C\#/NetApp/Views/Products/Index.cshtml]
+[C:/Users/Kevin/Documents/Programmation/Emploi/MVC .NET/NetApp/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kévin.L/Desktop/Cours/Programmation/C\#/NetApp/Views/Shared/_Footer.cshtml]
+[C:/Users/Kevin/Documents/Programmation/Emploi/MVC .NET/NetApp/Views/Shared/_Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kévin.L/Desktop/Cours/Programmation/C\#/NetApp/Views/Shared/_Header.cshtml]
+[C:/Users/Kevin/Documents/Programmation/Emploi/MVC .NET/NetApp/Views/Shared/_Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kévin.L/Desktop/Cours/Programmation/C\#/NetApp/Views/Shared/_Layout.cshtml]
+[C:/Users/Kevin/Documents/Programmation/Emploi/MVC .NET/NetApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

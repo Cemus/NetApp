@@ -1,0 +1,50 @@
+html,
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#app {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  grid-template-columns: 1fr;
+  height: 100vh;
+  color: white;
+  background: linear-gradient(0.3turn, rgb(15, 63, 95) 10%, rgb(10, 44, 72));
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+nav > ul {
+  display: flex;
+  gap: 2rem;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  all: unset;
+  user-select: none;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+main {
+  padding: 1rem;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: rgba(0, 0, 0, 0.7);
+}
