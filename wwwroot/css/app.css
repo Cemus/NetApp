@@ -21,6 +21,10 @@ header {
   background-color: rgba(0, 0, 0, 0.7);
 }
 
+header {
+  user-select: none;
+}
+
 nav > ul {
   display: flex;
   gap: 2rem;
@@ -33,9 +37,6 @@ li {
 a {
   all: unset;
   user-select: none;
-}
-
-a:hover {
   cursor: pointer;
 }
 
